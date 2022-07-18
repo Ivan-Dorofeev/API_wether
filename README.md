@@ -9,7 +9,7 @@ First of all, install packages from **_requirements.txt_**:
 Run python file **_weather.py_** and open in terminal:
 >python weather.py
 
-<img width="329" alt="image" src="https://user-images.githubusercontent.com/58893102/179416934-f9a74c83-d429-4c58-8998-4a9415d3dda8.png">
+![image](https://user-images.githubusercontent.com/58893102/179565210-bf7bc399-ecf1-4b8e-93ea-927e5580492d.png)
 
 # Errors
 If something wrong, you will see error in console: (example)
