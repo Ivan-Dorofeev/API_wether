@@ -5,7 +5,6 @@ cities = ['svo', 'london', 'cherepovets']
 views_params = {'1nTQ': '', 'lang': 'ru'}
 for city in cities:
     response = requests.get(f"https://wttr.in/{city}", params=views_params)
-    print(response.url)
     try:
         response.raise_for_status()
         print(response.text)
